@@ -1,4 +1,4 @@
-FROM debian:buster-20210326
+FROM debian:buster-20210902
 
 ### Set defaults
 ARG S6_OVERLAY_VERSION=v2.2.0.3
